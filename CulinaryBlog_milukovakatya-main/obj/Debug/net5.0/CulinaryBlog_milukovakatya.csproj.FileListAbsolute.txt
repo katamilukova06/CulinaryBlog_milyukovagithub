@@ -1,0 +1,155 @@
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\appsettings.Development.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\appsettings.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.exe
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.deps.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.runtimeconfig.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.runtimeconfig.dev.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\ref\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.Views.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\bin\Debug\net5.0\CulinaryBlog_milukovakatya.Views.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.AssemblyReference.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.GeneratedMSBuildEditorConfig.editorconfig
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.AssemblyInfoInputs.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.AssemblyInfo.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.CoreCompileInputs.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.MvcApplicationPartsAssemblyInfo.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorAssemblyInfo.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorAssemblyInfo.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\staticwebassets\CulinaryBlog_milukovakatya.StaticWebAssets.Manifest.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\staticwebassets\CulinaryBlog_milukovakatya.StaticWebAssets.xml
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\scopedcss\bundle\CulinaryBlog_milukovakatya.styles.css
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.TagHelpers.input.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.TagHelpers.output.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorCoreGenerate.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorTargetAssemblyInfo.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorTargetAssemblyInfo.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.Views.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\ref\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.genruntimeconfig.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.CopyComplete
+D:\313RN_\milukova\CulinaryBlog_milukovakatya\obj\Debug\net5.0\Razor\Views\Home\SiteInformation.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\appsettings.Development.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\appsettings.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.exe
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.deps.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.runtimeconfig.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.runtimeconfig.dev.json
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\ref\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.Views.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.Views.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.AssemblyReference.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.GeneratedMSBuildEditorConfig.editorconfig
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.AssemblyInfoInputs.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.AssemblyInfo.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.CoreCompileInputs.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.MvcApplicationPartsAssemblyInfo.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorAssemblyInfo.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorAssemblyInfo.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\staticwebassets\CulinaryBlog_milukovakatya.StaticWebAssets.Manifest.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\staticwebassets\CulinaryBlog_milukovakatya.StaticWebAssets.xml
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\scopedcss\bundle\CulinaryBlog_milukovakatya.styles.css
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.TagHelpers.input.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.TagHelpers.output.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorCoreGenerate.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\Home\SiteInformation.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorTargetAssemblyInfo.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorTargetAssemblyInfo.cs
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.Views.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\ref\CulinaryBlog_milukovakatya.dll
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.pdb
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.genruntimeconfig.cache
+D:\313RN_\milukova\CulinaryBlog_milukovakatya_alllll-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.CopyComplete
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\appsettings.Development.json
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\appsettings.json
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.StaticWebAssets.xml
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.exe
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.deps.json
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.runtimeconfig.json
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.runtimeconfig.dev.json
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.Views.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog_milukovakatya.Views.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.AssemblyReference.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.GeneratedMSBuildEditorConfig.editorconfig
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.AssemblyInfoInputs.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.AssemblyInfo.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.CoreCompileInputs.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.MvcApplicationPartsAssemblyInfo.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorAssemblyInfo.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorAssemblyInfo.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\scopedcss\bundle\CulinaryBlog_milukovakatya.styles.css
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\staticwebassets\CulinaryBlog_milukovakatya.StaticWebAssets.Manifest.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\staticwebassets\CulinaryBlog_milukovakatya.StaticWebAssets.Pack.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\staticwebassets\msbuild.CulinaryBlog_milukovakatya.Microsoft.AspNetCore.StaticWebAssets.props
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\staticwebassets\msbuild.build.CulinaryBlog_milukovakatya.props
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CulinaryBlog_milukovakatya.props
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CulinaryBlog_milukovakatya.props
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.TagHelpers.input.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.TagHelpers.output.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorCoreGenerate.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Home\SiteInformation.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorTargetAssemblyInfo.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.RazorTargetAssemblyInfo.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.Views.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\refint\CulinaryBlog_milukovakatya.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.genruntimeconfig.cache
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\ref\CulinaryBlog_milukovakatya.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.csproj.CopyComplete
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Shared\_LoginRegistrationPartial.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog.Domain.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog.Domain.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Humanizer.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Npgsql.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.FuzzyStringMatch.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog.DAL.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog.DAL.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\AutoMapper.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog.Service.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\CulinaryBlog.Service.pdb
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\FluentValidation.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\CulinaryBlog_milukovakatya.MvcApplicationPartsAssemblyInfo.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\MailKit.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\MimeKit.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Shared\_ConfirmEmailPartial.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Categories\ListOfCategories.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Recipes\ListOfRecipes.cshtml.g.cs
+D:\College 3\Educational Practice\CulinaryBlog_milukovakatya-main\obj\Debug\net5.0\Razor\Views\Recipes\ListOfRecipesPage.cshtml.g.cs

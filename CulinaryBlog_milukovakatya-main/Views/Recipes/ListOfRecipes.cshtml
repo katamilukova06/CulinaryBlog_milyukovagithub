@@ -1,0 +1,61 @@
+﻿@model CulinaryBlog.Domain.ViewModels.ListOfRecipesViewModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Список рецептов";
+}
+<div class="container-list-recipes">
+    <div class="link-page"><a href="/Home/SiteInformation">Главная</a> > <a href="/Recipes/ListOfRecipes">Категории</a> > Рецепты</div>
+    <div class="container-filter-recipes">
+        <div class="filter">
+            <h3>Фильтр</h3>
+            <div class="time-filter">
+                <label class="title">Время приготовления:</label>
+
+                <label>Минимальное время:</label>
+                <input type="range" id="time-min" min="0" max="1500" value="0">
+
+                <label>Максимальное время:</label>
+                <input type="range" id="time-max" min="0" max="1500" value="0">
+                <div>Текущие значения: <span id="time-values">0 - 1500</span></div>
+            </div>
+            <input id="categoryId" value="@Model.CategoryId" style="display: none" />
+            <div class="filter-button">
+                <button id="apply-filter">Применить фильтр</button>
+            </div>
+        </div>
+       <div class="container-recipes">
+           <div class="sorts">
+               <label for="sort-options">Сортировать по:</label>
+               <select id="sort-options">
+                   <option value="">Выберите...</option>
+                   <option value="time-asc">Время приготовления (по возрастанию)</option>
+                    <option value="time-desc">Время приготовления (по убыванию)</option>
+               </select>
+           </div>
+
+
+           <div class="list-recipes">
+                @foreach (var item in Model.Recipes)
+                {
+                    <form onclick="window.location.href='@Url.Action("ListOfRecipesPage", "Recipes",new {Id = item.Id})'">
+                    <div class="recipes-item">
+                        <div class="item-time">
+                            Время приготовления: @item.Time мин.
+                        </div>
+                       <img src="@item.PathImage" class="item-recipes-img" />
+                    
+                        <div class="item-info">
+                           <h2>@item.Title</h2>    
+                           <h2>@item.Description</h2>
+                        </div>
+                        <input asp-for="@item.Id" value="@item.Id" style="display: none" />
+                        <input asp-for="@item.CategoryId" value="@item.CategoryId" style="display: none" />
+                    </div>
+                    </form>
+                }
+           </div>
+
+
+       </div>
+    </div>
+</div>

@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CulinaryBlog_milukovakatya</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/shared.css" />
+    <link rel="stylesheet" href="~/css/login_and_registration.css" />
+    <link rel="stylesheet" href="~/css/media_style.css" />
+</head>
+<body>
+  <div id ="header-top">
+      <div id="hamburger" class="icon">&#9776</div>
+      <div class=" logo">Кулинарный блог</div>
+
+      <div class="button-header">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <button class="button" type="button" name="button" onclick="window.location.href='@Url.Action("Logout", "Home")'">Выйти</button>
+            }
+            @if (!User.Identity.IsAuthenticated)
+            {
+                <button class="button" id="click-to-hide" type="button" name="button">Войти</button>
+            }
+        </div>
+
+  </div>
+
+
+    <img class="img-header" src="~/images/Vmake-1731604813.jpg"/>
+
+    <div id= "header-bottom">
+        <div class="menu">
+            <ul>
+                <li><a href="#home">Главная</a></li>
+                <li><a href="#recipes">Рецепты</a></li>
+                <li><a href="/Categories/ListOfCategories">Категории</a></li>
+                <li><a href="#contacts">Контакты</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+
+    <div id="side-menu" class="side-menu">
+        <div>
+            <ul>
+                <li><a href="#home">Главная</a></li>
+                <li><a href="#recipes">Рецепты</a></li>
+                <li><a href="/Categories/ListOfCategories">Категории</a></li>
+                <li><a href="#contacts">Контакты</a></li>
+            </ul>
+        </div>
+        <button class="button" id="side-menu-button-click-to-hide" type="button" name="button">Войти</button>
+    </div>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <div class="footer-left">
+            <div class="logo">Кулинарный блог</div>
+            <p>
+                Наш кулинарный блог, где каждый рецепт — это не просто набор ингредиентов, а настоящий путеводитель в мир вкусов и ароматов. Наша цель — поделиться не только проверенными рецептами, но и вдохновением для создания вкусных, оригинальных и полезных блюд. Наша философия — это уважение к качественным продуктам, традиционным методам и современным кулинарным тенденциям. Мы стремимся упростить процесс готовки и сделать его увлекательным для всех, независимо от уровня опыта. Присоединяйтесь к нам в кулинарном путешествии!
+            </p>
+            <div class="footer-TravelAgency">
+                &copy; 2024 CulinaryBlog - Milukova
+            </div>
+        </div>
+        <div class="footer-right">
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Главная</a></li>
+                    <li><a href="#recipes">Рецепты</a></li>
+                    <li><a href="/Categories/ListOfCategories">Категории</a></li>
+                    <li><a href="#contacts">Контакты</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <script src="~/js/shared_script.js" asp-append-version="true"></script>
+    <script src="~/js/home_script.js" asp-append-version="true"></script>
+    <script src="~/js/login_and_registration_script.js" asp-append-version="true"></script>
+    <script src="~/js/time_script.js" asp-append-version="true"></script>
+    @await Html.PartialAsync("_LoginRegistrationPartial")
+    @await Html.PartialAsync("_ConfirmEmailPartial")
+</body>
+</html>

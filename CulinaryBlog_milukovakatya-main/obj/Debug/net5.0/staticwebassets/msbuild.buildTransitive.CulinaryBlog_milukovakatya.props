@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CulinaryBlog_milukovakatya.props" />
+</Project>

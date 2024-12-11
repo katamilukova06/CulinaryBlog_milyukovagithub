@@ -1,0 +1,30 @@
+﻿@model CulinaryBlog.Domain.ViewModels.RecipesPageViewModel
+@using CulinaryBlog.Domain.Helpers
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Рецепты";
+}
+
+<div class="recipes">
+    <div class="recipes-header">
+        <h1>@Model.Title</h1>
+       
+    </div>
+
+    <div class="recipes-details">
+        <div class="recipes-images">
+
+            <img id="main-image" src="@Model.PathImage" class="main-image">
+
+        </div>
+    
+
+        <div class="recipes-info">
+            <h1>@Model.Title</h1>
+            <p><strong>Время приготовления: </strong>@Model.Time минут</p>
+            <p class="description">@Model.Description</p>
+            <p class="ingredients"><strong>Ингредиенты: </strong>@Model.Ingredients</p>
+            <p class="steps"><strong>Приготовление: </strong>@Model.Steps</p>
+       </div>
+    </div>
+</div>

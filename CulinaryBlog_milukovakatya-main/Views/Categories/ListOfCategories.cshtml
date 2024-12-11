@@ -1,0 +1,23 @@
+﻿@model List<CulinaryBlog.Domain.ViewModels.CategoriesViewModel>
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Категории рецептов";
+}
+<div class="container-categories">
+    <div class="link-page"><a href="/Home/SiteInformation">Главная</a>> Категории</div>
+
+    <div class="grid-container">
+        @if (Model.Count != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <div class="card-categories" onclick="window.location.href='@Url.Action("ListOfRecipes", "Recipes", new { Id= item.Id })'">
+                    <img src="@item.PathImg" alt="@item.Name" class="card-image"/>
+                    <div class="card-overlay">
+                        <div class="card-title">@item.Name</div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

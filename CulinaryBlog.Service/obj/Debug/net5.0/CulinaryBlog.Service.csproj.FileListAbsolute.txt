@@ -1,0 +1,17 @@
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.Service.deps.json
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.Service.dll
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.Service.pdb
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.csproj.AssemblyReference.cache
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.AssemblyInfoInputs.cache
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.AssemblyInfo.cs
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.csproj.CoreCompileInputs.cache
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.dll
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\refint\CulinaryBlog.Service.dll
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.pdb
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\ref\CulinaryBlog.Service.dll
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.DAL.dll
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.Domain.dll
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.DAL.pdb
+D:\College 3\Educational Practice\CulinaryBlog.Service\bin\Debug\net5.0\CulinaryBlog.Domain.pdb
+D:\College 3\Educational Practice\CulinaryBlog.Service\obj\Debug\net5.0\CulinaryBlog.Service.csproj.CopyComplete

@@ -1,0 +1,15 @@
+D:\College 3\Educational Practice\CulinaryBlog.Domain\bin\Debug\net5.0\CulinaryBlog.Domain.deps.json
+D:\College 3\Educational Practice\CulinaryBlog.Domain\bin\Debug\net5.0\CulinaryBlog.Domain.dll
+D:\College 3\Educational Practice\CulinaryBlog.Domain\bin\Debug\net5.0\CulinaryBlog.Domain.pdb
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.csproj.AssemblyReference.cache
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.AssemblyInfoInputs.cache
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.AssemblyInfo.cs
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.csproj.CoreCompileInputs.cache
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.dll
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\refint\CulinaryBlog.Domain.dll
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.pdb
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\ref\CulinaryBlog.Domain.dll
+D:\College 3\Educational Practice\CulinaryBlog.Domain\bin\Debug\net5.0\CulinaryBlog.Domain.runtimeconfig.json
+D:\College 3\Educational Practice\CulinaryBlog.Domain\bin\Debug\net5.0\CulinaryBlog.Domain.runtimeconfig.dev.json
+D:\College 3\Educational Practice\CulinaryBlog.Domain\obj\Debug\net5.0\CulinaryBlog.Domain.genruntimeconfig.cache
